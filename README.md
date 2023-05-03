@@ -9,4 +9,5 @@ Technologies: Laravel/PHP, Yii2/php, Vue.js, React.js, Bootstrap, JavaScript, jQ
 - Server administration (DevOps engineering)
 - Speed optimization
 - Moving sites to new hostings, domain migration, server administration etc.
+
 WEB DEVELOPER
