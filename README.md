@@ -4,6 +4,7 @@ Technologies: Laravel/PHP, Yii2/php, Vue.js, React.js, React Native, Bootstrap, 
 - Full-stack development with PHP and JavaScript
 - Front End Development
 - Back End Development
+- React JS, VUE JS
 - React Native
 - Laravel development
 - Proficiency in SQL databases such as MySQL and PostgreSQL
