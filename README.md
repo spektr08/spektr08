@@ -1,7 +1,7 @@
 # Dima
 Technologies: Laravel/PHP, Yii2/php, Vue.js, React.js, React Native, Bootstrap, JavaScript, jQuery, AJAX, CSS3, HTML5, MySQL, Python.
 
-- Full-stack development with PHP and JavaScript
+- Full-stack development with PHP and JavaScript && Typescript 
 - Front End Development
 - Back End Development
 - SSR NEXT, NUXT
